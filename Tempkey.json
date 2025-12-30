@@ -14,11 +14,11 @@
     "allowOffline": true
   },
   {
-    "id": "",
-    "username": "user2",
-    "password": "pass2",
-    "expiresAt": "2025-11-30",
-    "allowOffline": false
+    "id": "c190f1c7e8cb10db",
+    "username": "123",
+    "password": "123",
+    "expiresAt": "2056-11-30",
+    "allowOffline": true
    },
    {
     "id": "",
